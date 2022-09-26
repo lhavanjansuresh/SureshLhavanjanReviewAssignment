@@ -6,7 +6,7 @@ import java.util.Scanner; //Imports scanner class
 Assignment: PC5, Smile with similes
 Teacher/Course: Mr. Payne/ICS4U1-01
 Created By: Lhavanjan Suresh
-Date: September 9, 2022
+Date: September 25, 2022
 
 A player chooses how many nouns and adjectives they want, then provides with 
 all the nouns and adjectives to finally recieve all the similies. As a result, 

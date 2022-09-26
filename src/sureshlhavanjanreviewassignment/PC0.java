@@ -6,12 +6,12 @@ import java.util.Scanner; //Imports scanner class
 Assignment: PC0, Transistor Gain
 Teacher/Course: Mr. Payne/ICS4U1-01
 Created By: Lhavanjan Suresh
-Date: September 9, 2022
+Date: September 25, 2022
 
 A transistor’s current gain calculator.
 */
 
-public class SureshLhavanjanReviewAssignment {
+public class PC0 {
 
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in); //Creates scanner class

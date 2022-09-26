@@ -7,7 +7,7 @@ import java.util.StringTokenizer; //Imports StringTokenizer class
 Assignment: PC1, Rock, Paper, Scissors
 Teacher/Course: Mr. Payne/ICS4U1-01
 Created By: Lhavanjan Suresh
-Date: September 9, 2022
+Date: September 25, 2022
 
 A player inputted game with P1 is the first letter and P2 is the second letter. 
 Whoever reaches 2 wins first wins the round. (Ex. player input: RP SS RP RS PR)

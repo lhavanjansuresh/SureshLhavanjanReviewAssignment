@@ -6,7 +6,7 @@ import java.util.Scanner;//Imports scanner class
 Assignment: PC2, Now I Know my ABC’s
 Teacher/Course: Mr. Payne/ICS4U1-01
 Created By: Lhavanjan Suresh
-Date: September 9, 2022
+Date: September 25, 2022
 
 A player inputs a sentence of their choice and the outputs displays the all the 
 letters that have appeared at least once.
